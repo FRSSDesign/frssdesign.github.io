@@ -1,9 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://frssdesign.github.io/'
 languageCode = 'en-us'
-title = 'Forensic-Ready System Design'
+title = 'Forensic-Ready System System Design'
 
 [params]
-  linkTitle =  'FRS'
+  linkTitle =  'FRSS Design'
 
 [module]
   [[module.imports]]

@@ -3,7 +3,8 @@ languageCode = 'en-us'
 title = 'Forensic-Ready System System Design'
 
 [params]
-  linkTitle =  'FRSS Design'
+  linkTitle = 'FRSS Design'
+  themeVariant = 'frss-dark'
 
 [module]
   [[module.imports]]

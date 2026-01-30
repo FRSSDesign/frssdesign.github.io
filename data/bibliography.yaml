@@ -1,0 +1,14 @@
+rowlingson2004:
+  text: 'Robert Rowlingson. “A Ten Step Process for Forensic Readiness”. In: International Journal of Digital Evidence 2 (2004).'
+daubner2021:
+  text: 'Lukas Daubner and Raimundas Matulevičius. “Risk-Oriented Design Approach For Forensic-Ready Software Systems”. In: Proceedings of the 16th International Conference on Availability, Reliability and Security. ACM, 2021. doi: 10.1145/3465481.3470052'
+daubner2023:
+  text: 'Lukas Daubner, Martin Macak, Raimundas Matulevičius, Barbora Buhnova, Sofija Maksović, and Tomas Pitner. “Addressing insider attacks via forensic-ready risk management”. In: Journal of Information Security and Applications 73 (2023), p. 103433. issn: 2214-2126. doi: 10.1016/j.jisa.2023.103433.'
+grobler2007:
+  text: 'C. P. Grobler and C. P. Louwrens. “Digital Forensic Readiness as a Component of Information Security Best Practice”. In: New Approaches for Security, Privacy and Trust in Complex Environments. Springer US, 2007, pp. 13–24. isbn: 978-0-387-72367-9. doi: 10.1007/978-0-387-72367-9_2.'
+dubois2010:
+  text: 'Éric Dubois, Patrick Heymans, Nicolas Mayer, and Raimundas Matulevičius. “A Systematic Approach to Define the Domain of Information System Security Risk Management”. In: Intentional Perspectives on Information Systems Engineering. Springer Berlin Heidelberg, 2010, pp. 289–306. isbn: 978-3-642-12544-7. doi: 10.1007/978-3-642-12544-7_16.'
+matulevicius2017:
+  text: 'Raimundas Matulevičius. Fundamentals of secure system modelling. Springer International Publishing, 2017. doi: 10.1007/978-3-319-61717-6.'
+ISO27005:
+  text: 'ISO/IEC. Information technology — Security techniques — Information security risk management (ISO/IEC 27005:2018). Standard. Switzerland: International Organization for Standardization, 2018.'

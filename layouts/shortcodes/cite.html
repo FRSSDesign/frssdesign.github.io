@@ -1,0 +1,4 @@
+{{ $key := .Get 0 }}
+{{ $entry := index site.Data.bibliography $key }}
+
+[<a href="{{ printf "#ref-%s" $key }}">{{ $key }}</a>]

@@ -1,0 +1,7 @@
+<ul>
+{{ range $key, $entry := site.Data.bibliography }}
+  <li id="ref-{{ $key }}">
+    [{{ $key }}] {{ $entry.text }}.
+  </li>
+{{ end }}
+</ul>

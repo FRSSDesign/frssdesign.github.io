@@ -3,7 +3,7 @@
 
 {{/* Collect all citation keys used on the page */}}
 {{ $content := .Page.RawContent }}
-{{ $re := "(< cite \")([a-z]+[0-9]{4}(_[0-9])?)(\" >)" }}
+{{ $re := "(< cite \")([a-z]+[0-9]+[0-9]{0,4}(_[0-9])?)(\" >)" }}
 {{ $matches := findRESubmatch $re $content }}
 
 {{/* Project and deduplicate keys */}}

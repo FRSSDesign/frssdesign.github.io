@@ -10,7 +10,7 @@ dubois2010:
   text: 'Éric Dubois, Patrick Heymans, Nicolas Mayer, and Raimundas Matulevičius. “A Systematic Approach to Define the Domain of Information System Security Risk Management”. In: Intentional Perspectives on Information Systems Engineering. Springer Berlin Heidelberg, 2010, pp. 289–306. isbn: 978-3-642-12544-7. doi: 10.1007/978-3-642-12544-7_16.'
 matulevicius2017:
   text: 'Raimundas Matulevičius. "Fundamentals of secure system modelling". Springer International Publishing, 2017. doi: 10.1007/978-3-319-61717-6.'
-ISO27005:
+iso27005:
   text: 'ISO/IEC. Information technology — Security techniques — Information security risk management (ISO/IEC 27005:2018). Standard. Switzerland: International Organization for Standardization, 2018.'
 firesmith2003_1:
   text: 'Donald Firesmith. "Common Concepts Underlying Safety, Security, and Survivability Engineering". Tech. rep. CMU/SEI-2003-TN-033. Software Engineering Institute, Carnegie Mellon University, 2003.'

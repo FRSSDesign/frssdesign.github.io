@@ -1,7 +1,28 @@
+{{/* Load the bibliography file */}}
+{{ $bib := .Site.Data.bibliography }}
+
+{{/* Collect all citation keys used on the page */}}
+{{ $content := .Page.RawContent }}
+{{ $re := "(< cite \")([a-z]+[0-9]{4}(_[0-9])?)(\" >)" }}
+{{ $matches := findRESubmatch $re $content }}
+
+{{/* Project and deduplicate keys */}}
+{{ $keys := slice }}
+{{ range $match := $matches }}
+  {{ $second := index $match 2 }}
+  {{ if not (in $keys $second) }}
+    {{ $keys = $keys | append $second }}
+  {{ end }}
+{{ end }}
+
+{{/* Print bibliography entries for keys found on the page */}}
 <ul>
-{{ range $key, $entry := site.Data.bibliography }}
+{{ range $key := $keys }}
+  {{ $entry := index $bib . }}
+  {{ if $entry }}
   <li id="ref-{{ $key }}">
-    [{{ $key }}] {{ $entry.text }}.
+    [{{ $key }}] {{ $entry.text }}
   </li>
+  {{ end }}
 {{ end }}
 </ul>

@@ -2,13 +2,45 @@ rowlingson2004:
   text: 'Robert Rowlingson. “A Ten Step Process for Forensic Readiness”. In: International Journal of Digital Evidence 2 (2004).'
 daubner2021:
   text: 'Lukas Daubner and Raimundas Matulevičius. “Risk-Oriented Design Approach For Forensic-Ready Software Systems”. In: Proceedings of the 16th International Conference on Availability, Reliability and Security. ACM, 2021. doi: 10.1145/3465481.3470052'
-daubner2023:
+daubner2023_1:
   text: 'Lukas Daubner, Martin Macak, Raimundas Matulevičius, Barbora Buhnova, Sofija Maksović, and Tomas Pitner. “Addressing insider attacks via forensic-ready risk management”. In: Journal of Information Security and Applications 73 (2023), p. 103433. issn: 2214-2126. doi: 10.1016/j.jisa.2023.103433.'
 grobler2007:
   text: 'C. P. Grobler and C. P. Louwrens. “Digital Forensic Readiness as a Component of Information Security Best Practice”. In: New Approaches for Security, Privacy and Trust in Complex Environments. Springer US, 2007, pp. 13–24. isbn: 978-0-387-72367-9. doi: 10.1007/978-0-387-72367-9_2.'
 dubois2010:
   text: 'Éric Dubois, Patrick Heymans, Nicolas Mayer, and Raimundas Matulevičius. “A Systematic Approach to Define the Domain of Information System Security Risk Management”. In: Intentional Perspectives on Information Systems Engineering. Springer Berlin Heidelberg, 2010, pp. 289–306. isbn: 978-3-642-12544-7. doi: 10.1007/978-3-642-12544-7_16.'
 matulevicius2017:
-  text: 'Raimundas Matulevičius. Fundamentals of secure system modelling. Springer International Publishing, 2017. doi: 10.1007/978-3-319-61717-6.'
+  text: 'Raimundas Matulevičius. "Fundamentals of secure system modelling". Springer International Publishing, 2017. doi: 10.1007/978-3-319-61717-6.'
 ISO27005:
   text: 'ISO/IEC. Information technology — Security techniques — Information security risk management (ISO/IEC 27005:2018). Standard. Switzerland: International Organization for Standardization, 2018.'
+firesmith2003_1:
+  text: 'Donald Firesmith. "Common Concepts Underlying Safety, Security, and Survivability Engineering". Tech. rep. CMU/SEI-2003-TN-033. Software Engineering Institute, Carnegie Mellon University, 2003.'
+daubner2023_2:
+  text: 'Lukas Daubner, Raimundas Matulevičius, and Barbora Buhnova. “A Model of Qualitative Factors in Forensic-Ready Software Systems”. In: Research Challenges in Information Science: Information Science and the Connected World. Springer, 2023. doi: 10.1007/978-3-031-33080-3_19'
+mckemmish2008:
+  text: 'Rodney McKemmish. “When is Digital Evidence Forensically Sound?” In: Advances in Digital Forensics IV. Springer US, 2008, pp. 3–15. isbn: 978-0-387-84927-0.'
+casey2011:
+  text: 'Eoghan Casey. "Digital evidence and computer crime. forensic science, computers and the Internet". 3rd ed. Academic Press, 2011. isbn: 978-012-3742-681.'
+Sethia2016:
+  text: 'Aradhya Sethia. "Rethinking admissibility of electronic evidence." International Journal of Law and Information Technology 24.3, 2016.'
+daubner2022:
+  text: 'Lukas Daubner, Barbora Buhnova, and Tomas Pitner. "Forensic experts'' view of forensic‐ready software systems: A qualitative study." Journal of Software: Evolution and Process 36.5, Wiley 2024. doi: 10.1002/smr.2598'
+casey2002:
+  text: 'Eoghan Casey. “Error, Uncertainty and Loss in Digital Evidence”. In: International Journal of Digital Evidence 1, 2002.'
+richter2010:
+  text: 'J. Richter, N. Kuntze, C. Rudolph. "Security digital evidence". In: 2010 Fifth IEEE International Workshop on Systematic Approaches to Digital Forensic Engineering, pp. 119–130, 2010.'
+pasquale2018:
+  text: 'Liliana Pasquale, Dalal Alrajeh, Claudia Peersman, Thein Tun, Bashar Nuseibeh, and Awais Rashid. “Towards Forensic-ready Software Systems”. In: Proceedings of the 40th International Conference on Software Engineering: New Ideas and Emerging Results. Association for Computing Machinery, 2018, pp. 9–12. isbn: 978-1-4503-5662-6. doi: 10.1145/3183399.3183426.'
+cosic2010_1:
+  text: 'Jasmin Ćosić, and Miroslav Bača. "(Im) proving chain of custody and digital evidence integrity with time stamp." The 33rd International Convention MIPRO. IEEE, 2010.'
+tan2001:
+  text: 'John Tan. "Forensic Readiness". Tech. rep. @stake, Inc., 2001.'
+firesmith2003_2:
+  text: 'Donald Firesmith et al. “Engineering security requirements”. In: Journal of Object Technology 2.1, pp. 53–68, 2003'
+menezes2018:
+  text: 'Alfred J. Menezes, Paul C. Van Oorschot, and Scott A. Vanstone. "Handbook of applied cryptography". CRC press, 2018.'
+cosic2010_2:
+  text: 'Jasmin Cosic, and Miroslav Baca. "Do we have full control over integrity in digital evidence life cycle?." Proceedings of the ITI 2010, 32nd International Conference on Information Technology Interfaces. IEEE, 2010.'
+daubner2020:
+  text: 'Lukas Daubner, Martin Macak, Barbora Buhnova, and Tomas Pitner. “Towards verifiable evidence generation in forensic-ready systems”. In: 2020 IEEE International Conference on Big Data (Big Data). IEEE, 2020. doi: 10.1109/BigData50022.2020.9378035'
+hitchcock2016:
+  text: 'Ben Hitchcock, Nhien-An Le-Khac, and Mark Scanlon. "Tiered forensic methodology model for Digital Field Triage by non-digital evidence specialists." Digital investigation 16: S75-S85, 2016'

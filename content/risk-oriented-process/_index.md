@@ -22,7 +22,7 @@ This pre-step is needed for the cost-effective implementation of forensic readin
 ## Process
 The forensic-ready software system design approach is described by a process which describes the activities leading to the implementation of forensic readiness capabilities in software. Figure 1 depicts the overview of the process, divided into three segments: Mapping, Designing, and Implementing. 
  
-![Forensic-Ready Design Approach Process](../images/process.png)
+![Forensic-Ready Design Approach Process](process.png)
 *Figure 1: Forensic-Ready Design Approach Process*
 
 In the first, Mapping, stage, the current state of the system is assessed with respect to the needs for forensic readiness. At the start (1), the forensic readiness goals are formulated. These encapsulate the overall aims of implementing forensic readiness in relation to the business (primary) assets. Whether it is supporting an investigation related to a specific asset, handling disputes, etc. The goals drive forward the rest of the process. Then (2), security risks relevant to the forensic readiness goals are selected. This means reviewing the recognised risks (from the security risk assessment), whether they fall under the goal. For example, the goal of enabling investigation of asset “sensor data” tampering would involve investigation of any occurrence of “sensor data” tampering risk. These goal-risk pairs are encapsulated into forensic readiness scenarios (3), which describe what happens to the system during risk occurrence, in relation to the goal. The scenarios are then enriched (4) with existing potential evidence, which gives testimony of the occurrence. Naturally, the discovery of the potential evidence is a complex and challenging task, which is a topic in itself. However, the scenarios are used to narrow the context.
@@ -38,7 +38,7 @@ Lastly, the whole process is meant to be iterative, meaning that multiple runs o
 ## Domain Model
 The concepts of the forensic-ready software system design approach are organised into the Forensic-Ready Information Systems Security Risk Management (FR-ISSRM) domain model {{< cite "daubner2023" >}}. It is an extension of Information Systems Security Risk Management (ISSRM) {{< cite "dubois2010" >}}{{< cite "matulevicius2017" >}}, underlining the relationship between security and forensic readiness. The domain model is presented in Figure 2 as a UML class diagram.
 
-![FR-ISSRM Domain Model](../images/domain_model.png)
+![FR-ISSRM Domain Model](domain_model.png)
 *Figure 2: FR-ISSRM Domain Model*
 
 The original ISSRM domain model  features three concept groups. (1) Asset-related concepts describing the important assets and criteria for their security. (2) Risk-related concepts describing the risk and its components. (3) Risk Treatment-related concepts, describing decisions, requirements, and implementations to mitigate the risks. The FR-ISSRM adds the fourth group: (4) Forensic Readiness-related concepts, describing the concepts specific to forensic readiness, including the potential evidence, its context, scenarios, and requirements for forensic-ready systems.

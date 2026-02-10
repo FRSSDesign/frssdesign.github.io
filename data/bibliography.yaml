@@ -44,3 +44,13 @@ daubner2020:
   text: 'Lukas Daubner, Martin Macak, Barbora Buhnova, and Tomas Pitner. “Towards verifiable evidence generation in forensic-ready systems”. In: 2020 IEEE International Conference on Big Data (Big Data). IEEE, 2020. doi: 10.1109/BigData50022.2020.9378035'
 hitchcock2016:
   text: 'Ben Hitchcock, Nhien-An Le-Khac, and Mark Scanlon. "Tiered forensic methodology model for Digital Field Triage by non-digital evidence specialists." Digital investigation 16: S75-S85, 2016'
+daubner2024:
+  text: 'Lukas Daubner, Sofija Maksović, Raimundas Matulevičius, Barbora Buhnova, and Tomas Sedlacek. "Forensic-ready analysis suite: a tool support for forensic-ready software systems design." International Conference on Research Challenges in Information Science. Cham: Springer Nature Switzerland, 2024. doi: 10.1007/978-3-031-59468-7_6'
+omg2010:
+  text: 'OMG. "Business process model and notation". https://www.omg.org/spec/BPMN/2.0/ 2010.'
+daubner2023_3:
+  text: 'Lukas Daubner, Raimundas Matulevičius, Barbora Buhnova, Tomas Pitner. “BPMN4FRSS: An BPMN Extension to Support Risk-Based Development of Forensic-Ready Software Systems”. In: Evaluation of Novel Approaches to Software Engineering. Springer Nature Switzerland, 2023, pp. 20–43. isbn: 978-3-031-36597-3. doi: 10.1007/978-3-031-36597-3_2'
+silver2011:
+  text: 'Bruce Silver. "BPMN Method and Style, with BPMN Implementer’s Guide: A structured approach for business process modeling and implementation using BPMN 2.0". Cody-Cassidy Press Aptos, CA, USA, 2011.'
+altuhhova2013:
+  text: 'Olga Altuhhova, Raimundas Matulevičius, and Naved Ahmed. “An Extension of Business Process Model and Notation for Security Risk Management”. In: International Journal of Information System Modeling and Design 4, pp. 93–113, 2013. doi: 10.4018/ijismd.2013100105.'

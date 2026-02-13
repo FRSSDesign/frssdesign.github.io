@@ -39,7 +39,7 @@ Lastly, the whole process is meant to be iterative, meaning that multiple runs o
 The concepts of the forensic-ready software system design approach are organised into the Forensic-Ready Information Systems Security Risk Management (FR-ISSRM) domain model {{< cite "daubner2023_1" >}}. It is an extension of Information Systems Security Risk Management (ISSRM) {{< cite "dubois2010" >}}{{< cite "matulevicius2017" >}}, underlining the relationship between security and forensic readiness. The domain model is presented in Figure 2 as a UML class diagram.
 
 ![FR-ISSRM Domain Model](domain_model.png)
-*Figure 2: FR-ISSRM Domain Model*
+*Figure 2: FR-ISSRM Domain Model {{< cite "daubner2023_1" >}}*
 
 The original ISSRM domain model  features three concept groups. (1) Asset-related concepts describing the important assets and criteria for their security. (2) Risk-related concepts describing the risk and its components. (3) Risk Treatment-related concepts, describing decisions, requirements, and implementations to mitigate the risks. The FR-ISSRM adds the fourth group: (4) Forensic Readiness-related concepts, describing the concepts specific to forensic readiness, including the potential evidence, its context, scenarios, and requirements for forensic-ready systems.
 

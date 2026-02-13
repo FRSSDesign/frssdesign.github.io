@@ -55,6 +55,10 @@ silver2011:
 altuhhova2013:
   text: 'Olga Altuhhova, Raimundas Matulevičius, and Naved Ahmed. “An Extension of Business Process Model and Notation for Security Risk Management”. In: International Journal of Information System Modeling and Design 4, pp. 93–113, 2013. doi: 10.4018/ijismd.2013100105'
 rodriguesdasilva2015:
-  text: 'Alberto Rodrigues da Silva. "Model-driven engineering: A survey supported by the unified conceptual model". Computer Languages, Systems & Structures 43, 139–155, 2015. https://doi.org/10.1016/j.cl.2015.06.001'
+  text: 'Alberto Rodrigues da Silva. "Model-driven engineering: A survey supported by the unified conceptual model". Computer Languages, Systems & Structures 43, 139–155, 2015. doi: 10.1016/j.cl.2015.06.001'
 harel2004:
-  text: 'D. Harel and B. Rumpe, "Meaningful modeling: what''s the semantics of "semantics"?," in Computer, vol. 37, no. 10, pp. 64-72, 2004. doi: 10.1109/MC.2004.172'
+  text: 'David Harel and Bernhard Rumpe, "Meaningful modeling: what''s the semantics of "semantics"?," in Computer, vol. 37, no. 10, pp. 64-72, 2004. doi: 10.1109/MC.2004.172'
+demoura2008:
+  text: 'Leonardo De Moura, and Nikolaj Bjørner. "Z3: An efficient SMT solver." International conference on Tools and Algorithms for the Construction and Analysis of Systems. Berlin, Heidelberg: Springer Berlin Heidelberg, 2008. doi: 10.1007/978-3-540-78800-3_24'
+daubner2023_4:
+  text: 'Lukas Daubner, Raimundas Matulevičius, Barbora Buhnova, Matej Antol, Michal Růžička, and Tomas Pitner. “A Case Study on the Impact of Forensic-Ready Information Systems on the Security Posture”. In: Advanced Information Systems Engineering. Springer, 2023. doi: 10.1007/978-3-031-34560-9_31'
